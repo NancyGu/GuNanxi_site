@@ -269,7 +269,7 @@ i.github {
 i.zhihu {
   width: 64px;
   height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -64px -64px;
+  background: url(../images/img-sprite.png)no-repeat -128px -64px;
   float: left;
   vertical-align: middle;
     margin: 0 10px;
@@ -277,7 +277,7 @@ i.zhihu {
 i.csdn {
   width: 64px;
   height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -128px -64px;
+  background: url(../images/img-sprite.png)no-repeat -64px -64px;
   float: left;
   vertical-align: middle;
     margin: 0 10px;
